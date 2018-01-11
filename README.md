@@ -1,4 +1,4 @@
-# bootstrap-poste-dev
+# bootstrap-poste-dev-for-datascience
 **Prise en main de son poste de développement**
 
 ## Installation
@@ -22,40 +22,6 @@
     * **`git --version`**
     * **`git clone https://github.com/celinegilet/bootstrap-poste-dev`**
 
-#### Java (Java Development Kit)
-  * [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  * _Recette_ : **`java -version`**
-
-#### Maven
-  * [Maven](https://maven.apache.org/download.cgi)
-  * Sous MAC : **`brew update`** **`brew install maven`**
-  * Ubuntu : **`sudo apt install -y maven`**
-  * _Recette_ : 
-    * **`mvn -v`**
-    * [Tests unitaires java + maven](https://github.com/celinegilet/java-maven-kata)
-
-#### Gradle
-  * [Gradle](https://gradle.org/install/)
-  * Sous MAC : **`brew update`** **`brew install gradle`**
-  * Ubuntu :
-    * **`sudo add-apt-repository ppa:cwchien/gradle`**
-    * **`sudo apt update`**
-    * **`sudo apt install -y gradle`**
-  * _Recette_ : 
-    * **`gradle -v`**
-    * [Tests unitaires gradle + maven](https://github.com/celinegilet/java-gradle-kata) 
-
-#### Node / Npm
-  * [Node + Npm](https://nodejs.org/en/download/)
-  * _Recette_ : 
-    * **`node -v`**
-    * **`npm -v`**
-    * [Tests unitaires NodeJs](https://github.com/Akhilian/NodeJSKata)
-  * _Facultatif_ : 
-    * Installation d'un gestionnaire de version Node.js [N](https://github.com/tj/n) pour switcher d'une version à une autre
-    * [NVM](https://github.com/creationix/nvm)
-    * Sous MAC : **`brew update`** **`brew install nvm`** et edit du bash profile [install nvm with homebrew](http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/)
-
 #### IntelliJ
   * [IntelliJ Version Ultimate](https://www.jetbrains.com/idea/download) avec licence
   * [Tests unitaires java + maven](https://github.com/celinegilet/java-maven-kata)
@@ -65,16 +31,16 @@
   * Customiser **File and Code Template** pour les tests (Given/When/Then)
   * Installer les **plugins** de base (GIT/ESLint/editorconfig)
 
-#### VirtualBox / Vagrant
-  * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-  * [Vagrant](https://www.vagrantup.com/downloads.html)
-  * _Recette_ : se connecter sur une image vagrant en **`ssh`**
-
 #### Text/Code Editor
   * [Visual Studio Code](https://code.visualstudio.com/)
   * [Atom](https://atom.io/)
   * [SublimeText](https://www.sublimetext.com/3)
   * [Nodepad++](https://notepad-plus-plus.org/download/)
+
+#### VirtualBox / Vagrant
+  * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  * [Vagrant](https://www.vagrantup.com/downloads.html)
+  * _Recette_ : se connecter sur une image vagrant en **`ssh`**
 
 #### Amazon CLI
   * [Amazon CLI](http://docs.aws.amazon.com/fr_fr/cli/latest/userguide/installing.html)
