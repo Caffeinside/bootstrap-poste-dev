@@ -22,10 +22,13 @@
     * **`git --version`**
     * **`git clone https://github.com/celinegilet/bootstrap-poste-dev`**
 
-#### IntelliJ
-  * [IntelliJ Version Ultimate](https://www.jetbrains.com/idea/download) avec licence
-  * [Tests unitaires java + maven](https://github.com/celinegilet/java-maven-kata)
-  * [Tests unitaires gradle + maven](https://github.com/celinegilet/java-gradle-kata)
+#### Anaconda
+  * [miniconda](https://conda.io/docs/user-guide/install/index.html#regular-installation)
+  * Créer un premier environnement avec Python 2.7 ou 3.6
+    * _Recette_ : **`which python`**
+
+#### PyCharm
+  * [IntelliJ Version Ultimate](https://www.jetbrains.com/pycharm/download) avec licence
   * [Prendre en main ses raccourcis](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
   * [Pb de raccourcis sous MAC](https://youtrack.jetbrains.com/issue/IDEA-165950#comment=27-2053321) 
   * Customiser **File and Code Template** pour les tests (Given/When/Then)
