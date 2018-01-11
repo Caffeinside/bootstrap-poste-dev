@@ -28,7 +28,7 @@
     * _Recette_ : **`which python`**
 
 #### PyCharm
-  * [IntelliJ Version Ultimate](https://www.jetbrains.com/pycharm/download) avec licence
+  * [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/download) avec licence
   * [Prendre en main ses raccourcis](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
   * [Pb de raccourcis sous MAC](https://youtrack.jetbrains.com/issue/IDEA-165950#comment=27-2053321) 
   * Customiser **File and Code Template** pour les tests (Given/When/Then)
