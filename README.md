@@ -20,7 +20,7 @@
   * [Git](https://git-scm.com/downloads)
   * _Recette_ : 
     * **`git --version`**
-    * **`git clone https://github.com/celinegilet/bootstrap-poste-dev`**
+    * **`git clone https://github.com/nitlev/bootstrap-poste-dev`**
 
 #### Anaconda
   * [miniconda](https://conda.io/docs/user-guide/install/index.html#regular-installation)
