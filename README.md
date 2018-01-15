@@ -33,6 +33,7 @@
   * [Pb de raccourcis sous MAC](https://youtrack.jetbrains.com/issue/IDEA-165950#comment=27-2053321) 
   * Customiser **File and Code Template** pour les tests (Given/When/Then)
   * Installer les **plugins** de base (GIT/ESLint/editorconfig)
+  * _Recette_ : Execution des tests dans [tp](./tp/)
 
 #### Text/Code Editor
   * [Visual Studio Code](https://code.visualstudio.com/)
